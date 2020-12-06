@@ -55,6 +55,10 @@ uget
 KeepassXC
 Chromium (SFX)
 Linux Extra Firmware (SFX)
+ubuntu-restricted-extras
+preload
+tlp
+tlp-rdw
 ---------------------GnUPG
 gpa
 libccid
