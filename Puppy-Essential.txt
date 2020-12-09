@@ -14,7 +14,7 @@ gitg
 ddd
 valgrind
 astyle
-universal-ctags
+exuberant-ctags
 autoconf
 pkg-config
 libx11
